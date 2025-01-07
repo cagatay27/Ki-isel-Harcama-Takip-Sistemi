@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Forms\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Patterns\\ExpenseCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\ExpenseCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\ICommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Commands\\ICommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\DeleteExpenseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Commands\\DeleteExpenseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\AddExpenseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Commands\\AddExpenseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\DatabaseInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\CategoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CategoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Patterns\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "Patterns\\ExpenseCategory.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Patterns\\ExpenseCategory.cs",
+              "RelativeToolTip": "Patterns\\ExpenseCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:42:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddExpenseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\AddExpenseCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\AddExpenseCommand.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\AddExpenseCommand.cs",
+              "RelativeToolTip": "Commands\\AddExpenseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:30.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseConnection.cs",
+              "RelativeToolTip": "Database\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:27.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Database\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Database\\DatabaseInitializer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:24.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\CategoryItem.cs",
+              "RelativeDocumentMoniker": "Models\\CategoryItem.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\CategoryItem.cs",
+              "RelativeToolTip": "Models\\CategoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:08:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteExpenseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\DeleteExpenseCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\DeleteExpenseCommand.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\DeleteExpenseCommand.cs",
+              "RelativeToolTip": "Commands\\DeleteExpenseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:43.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:59:28.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:20.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:49.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:08:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:59:23.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Cagatay SAVUN\\Desktop\\ki\u015Fiselupdate\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:18.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
